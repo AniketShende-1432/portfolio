@@ -54,7 +54,7 @@ nav ul li a:hover::after{
     display:flex;
 }
 .col .me{
-    margin-left:18rem;
+    margin-left:8rem;
 }
 .header-text{
     margin-top:20%;
@@ -110,7 +110,7 @@ p{
 
 .tab-titles{
     display:flex;
-    margin:20px 0rem 30px  20rem;
+    margin:20px 0rem 30px 10rem;
 }
 .tab-links{
     margin-right:50px;
@@ -144,7 +144,7 @@ p{
 }
 .tab-contents{
     display:none;
-    margin:20px 10rem 30px  20rem; 
+    margin:20px 10rem 30px  10rem; 
 }
 .tab-contents.active-tab{
     display:block;
@@ -175,7 +175,7 @@ p{
 .services-list div i{
     font-size: 80px;
     margin-bottom:30px;
-    margin-left:12rem;
+    margin-left:10rem;
     color:white;
 }
 .services-list div h2{
@@ -224,7 +224,7 @@ p{
     height:8rem;
     width:8rem;
     margin-bottom:30px;
-    margin-left:4rem;   
+    margin-left:2rem;   
 }
 #portfolio{
     padding:50px 0;
@@ -244,7 +244,7 @@ p{
 }
 .work img{
     width:6rem;
-    margin-left:12rem;
+    margin-left:10rem;
     margin-top:2rem;
     color:white;
 }
@@ -254,7 +254,7 @@ p{
     font-size:18px;
 }
 .work h1{
-    margin:1rem 0 1rem 8rem;
+    margin:1rem 0 1rem 6rem;
 }
 .btn{
     border-radius: 10px;
@@ -263,7 +263,7 @@ p{
     background-color: #ff004f;
     color:white;
     font-size:1rem;
-    margin-left:12rem;
+    margin-left:10rem;
 }
 .layer{
     width:100%;
